@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MaxBne
-- 👀 I’m interested in coding and structural engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on engineering apps
+- 👀 I’m interested in coding
 - 📫 How to reach me maxh.bne@gmail.com
 
 <!---
